@@ -9,4 +9,4 @@ Make sure you have a `secrets.json` file at the root that looks something like t
 }
 ```
 
-Otherwise the API will just reject.
+Otherwise the API will just reject. You can generate these credentials using the unsplash developer area: https://unsplash.com/oauth/applications/
