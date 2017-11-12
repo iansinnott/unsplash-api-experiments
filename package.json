@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "node-fetch": "^1.7.3",
+    "unsplash-js": "^4.7.0"
+  }
+}
